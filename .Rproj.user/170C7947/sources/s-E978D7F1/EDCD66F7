@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3717092280",
+    "hash" : "0",
     "id" : "EDCD66F7",
-    "lastKnownWriteTime" : 1565626486,
-    "last_content_update" : 1565626486746,
+    "lastKnownWriteTime" : 1565626975,
+    "last_content_update" : 1565626975184,
     "path" : "C:/Users/s b/Blogdown_Academic_New/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "9,23",
-        "scrollLine" : "1"
+        "cursorPosition" : "28,8",
+        "scrollLine" : "30"
     },
     "read_only" : false,
     "read_only_alternatives" : [
