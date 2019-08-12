@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565625821698.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EDCD66F7",
+    "lastKnownWriteTime" : 1565625838,
+    "last_content_update" : 1565625838980,
+    "path" : "C:/Users/s b/Blogdown_Academic_New/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "11,25",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
